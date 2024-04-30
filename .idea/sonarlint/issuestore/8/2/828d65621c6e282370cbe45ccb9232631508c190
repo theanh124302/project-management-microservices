@@ -1,0 +1,12 @@
+
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÉËœ”üÿÿÿÿ8×é†Ëò1J$e8612539-c67b-4013-b3e6-67871431197e
+¨
+java:S1128"eRemove this unused import 'org.springframework.security.config.annotation.web.builders.HttpSecurity'.(ƒµ‹Š8Ëß¨Öò1J$66138d54-7f2b-4866-b517-2df21d06ffe7
+µ
+java:S1128"rRemove this unused import 'org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer'.(Ç¼Î8Ëß¨Öò1J$b229d7b1-cd3b-4ba0-a67b-99657a05a4f4
+”
+java:S1128"QRemove this unused import 'org.springframework.security.web.SecurityFilterChain'.(Ï×ÜÌ8Ëß¨Öò1J$610ef243-5c98-4eb3-9288-d3f6d363c14c
+´
+java:S1128"qRemove this unused import 'org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter'.(÷ìïŠ8Ëß¨Öò1J$47f5b0b6-35f3-4299-9b20-5288a1895dc4
+¨
+java:S1128"eRemove this unused import 'org.springframework.security.config.http.SessionCreationPolicy.STATELESS'.(Ò©ÍÙ8Ìß¨Öò1J$38c83863-bf01-4610-a25f-67bd2cd41ed5
